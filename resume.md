@@ -16,7 +16,7 @@
 
   June 2013 - Present
 
-  While working for Cumulus, my responsibilities include internal and external automation, release engineering and software development.
+  My responsibilities include internal and external automation, release engineering and software development.
 
   Internal automation includes:
 
@@ -33,7 +33,7 @@
 
   June 2010 - June 2013
 
-  While part of Cloud department, I participated in the following projects:
+  While part of the Cloud department, I participated in the following projects:
   
   * developed initial version OpenStack Quantum Plugin for Nexus1000V
   * worked on Nexus1000V & Microsoft SCVMM integration
@@ -56,7 +56,7 @@
 
   August 2007 - July 2010
 
-  My primary role as a web developer included:
+  My primary roles as a web developer included:
   
   * development and maintenance of internal and customer facing web portals and related tools
   * automating post production content generation
