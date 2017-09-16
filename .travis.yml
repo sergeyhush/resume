@@ -3,3 +3,10 @@ before_install:
   - sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
 script:
   - make
+deploy:
+  local_dir: docs
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master

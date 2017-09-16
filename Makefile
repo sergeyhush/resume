@@ -1,5 +1,7 @@
 RESUME ?= resume.md
 TOOLS := pandoc pdflatex
+MKDIR = mkdir -p
+
 
 $(foreach bin, $(TOOLS), \
 	$(if $(shell command -v $(bin) 2> /dev/null),,$(error Install `$(bin)`)))
@@ -8,10 +10,12 @@ $(foreach bin, $(TOOLS), \
 all: resume.html resume.pdf
 
 %.html: %.md
-	pandoc -t html5 --template templates/resume-template.html --standalone --section-divs -o $@ $<
+	${MKDIR} docs
+	pandoc -t html5 --template templates/resume-template.html --standalone --section-divs -o docs/index.html $<
 
 %.pdf:  %.md
-	pandoc -o $@ $<
+	${MKDIR} docs
+	pandoc -o docs/$@ $<
 
 clean:
 	rm -f *~ *.log *.pdf *.html
