@@ -30,6 +30,7 @@
   * develop various outside facing services
 
   Release engineering:
+
   * end-to-end automation of release for Cumulus Linux, NetQ and other customer deliverables
 
 
