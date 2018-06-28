@@ -29,6 +29,10 @@
   * integration with tools like Puppet, Chef, Ansible, CFEngine
   * develop various outside facing services
 
+  Release engineering:
+  * end-to-end automation of release for Cumulus Linux, NetQ and other customer deliverables
+
+
 ##  Senior Software Engineer at [Cisco Systems][employer cisco] 
 
   June 2010 - June 2013
