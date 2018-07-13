@@ -7,8 +7,15 @@
 
 # Summary
 
-  Software engineer and a web developer who has worked up and down the proverbial "full stack".
-  I tend to be the jack of all trades when it comes to software.
+  Software engineer and (in the past) web developer who has worked up and down the proverbial "full stack".
+  I tend to be the jack of all trades when it comes to software development.
+
+# Skills
+  * Python, Groovy, Golang, Lua
+  * Jenkins, Ansible, Puppet, Docker, KVM, AWS
+  * Nginx, Apache, Gunicorn, uWSGI, Flask, Django
+  * MySQL, PostgeSQL, Redis, MongoDB
+  * Gradle, CMake
 
 # Experience
 
@@ -16,22 +23,14 @@
 
   June 2013 - Present
 
-  My responsibilities include internal and external automation, release engineering and software development.
+  Lead developer of numerous parts of the Cumulus Linux ecosystem that include
+  internal and external automation, software design and development and release engineering.
 
-  Internal automation includes:
-
-  * maintain and improve internal testing infrastructure
-  * develop CI/CD pipelines for image generation and full suite tests
-  * develop various tools and services used internally to bootstrap, orchestrate and produce tests and test artifacts
-
-  External automation includes:
-
-  * integration with tools like Puppet, Chef, Ansible, CFEngine
-  * develop various outside facing services
-
-  Release engineering:
-
-  * end-to-end automation of release for Cumulus Linux, NetQ and other customer deliverables
+  * maintain and improve platform test infrastucture, mainly Python based running on KVM
+  * created and continuously maintaining fully autonomous container-based CI/CD pipeline for infrastucture testing
+  * develop various tools and services used internally and externally, mainly Python and Golang based
+  * integration with orchestration tools like Puppet, Ansible as well as new module development
+  * end-to-end automation of release process for Cumulus Linux, NetQ and other customer deliverables
 
 
 ##  Senior Software Engineer at [Cisco Systems][employer cisco] 
@@ -78,16 +77,6 @@
 * MS in Computer Science with Specialization in Computer Networks, 2007 - 2009
 * BS in Computer Science, 2007 - 2009
 
-## [Santa Monica College][education smc]
-* Computer Science (transferred), 2005 - 2006
-
-## [West Valley College][education westvalley]
-* AA in Photography (incomplete), 2010 - 2013
-
-## [Odessa National Polytechnic University][education opu]
-* BS in Computer Science, 1999-2002
-
-
 [personal email]: mailto:sergey@sudakovich.com "Email address"
 [personal linkedin]: https://www.linkedin.com/in/sergeysudakovich/ "Linkedin"
 [personal github]: https://github.com/sergeyhush "Github"
@@ -100,6 +89,3 @@
 [video easyvmfex]: http://www.youtube.com/watch?v=0aAuj80cNvg "USC Easy VM-FEX"
 
 [education usc]: https://viterbischool.usc.edu/ "USC Viterbi School of Engineering"
-[education smc]: http://smc.edu "Santa Monica College"
-[education westvalley]: http://westvalley.edu "West Valley College"
-[education opu]: http://opu.ua "Odessa National Polytechnic University"
