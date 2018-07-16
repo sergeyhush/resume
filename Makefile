@@ -11,7 +11,7 @@ CSS := $(addprefix --include-in-header=,$(wildcard $(TEMPLATEDIR)/css/*.css))
 $(foreach bin, $(TOOLS), \
 	$(if $(shell command -v $(bin) 2> /dev/null),,$(error Install `$(bin)`)))
 
-all: $(OUTFILES)
+all: $(TEMPLATEDIR) $(OUTFILES)
 
 %.html: %.md
 	${MKDIR} docs
