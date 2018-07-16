@@ -1,6 +1,6 @@
 language: python
 before_install:
-  - sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+  - sudo apt-get install pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended wkhtmltopdf
 script:
   - make
 deploy:
