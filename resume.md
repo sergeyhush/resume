@@ -19,15 +19,18 @@
 
 # Experience
 
+##  Lead DevOps (Data Engineeringa) at [Target][employer target]
+  September 2018 - Present
+
 ##  Member of Technical Staff at [Cumulus Networks][employer cumulus]
 
-  June 2013 - Present
+  June 2013 - September 2018
 
   Lead developer of numerous parts of the Cumulus Linux ecosystem that include
   internal and external automation, software design and development and release engineering.
 
-  * maintain and improve platform test infrastucture, mainly Python based running on KVM
-  * created and continuously maintaining fully autonomous container-based CI/CD pipeline for infrastucture testing
+  * maintain and improve platform test infrastructure, mainly Python based running on KVM
+  * created and continuously maintaining fully autonomous container-based CI/CD pipeline for infrastructure testing
   * develop various tools and services used internally and externally, mainly Python and Golang based
   * integration with orchestration tools like Puppet, Ansible as well as new module development
   * end-to-end automation of release process for Cumulus Linux, NetQ and other customer deliverables
@@ -81,9 +84,10 @@
 [personal linkedin]: https://www.linkedin.com/in/sergeysudakovich/ "Linkedin"
 [personal github]: https://github.com/sergeyhush "Github"
 
-[employer cumulus]: https://cumulusnetworks.com "Cumulus Networks"
 [employer cisco]: https://cisco.com "Cisco Systems"
+[employer cumulus]: https://cumulusnetworks.com "Cumulus Networks"
 [employer hushhushent]: https://www.linkedin.com/company/8259494/ "Hush-Hush Entertainment"
+[employer target]: https://target.com "Target"
 
 [video vmwarewebclientplugin]: http://www.youtube.com/watch?v=V_cevCWcuQs "VMware Web Client Plugin"
 [video easyvmfex]: http://www.youtube.com/watch?v=0aAuj80cNvg "USC Easy VM-FEX"
