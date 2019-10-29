@@ -19,8 +19,11 @@
 
 # Experience
 
+## Senior SRE (Cloud Engineer) at [Snowflake][https://www.snowflake.com/]
+  April 2019 - Present
+  
 ##  Lead DevOps (Data Engineeringa) at [Target][employer target]
-  September 2018 - Present
+  September 2018 - April 2019
 
 ##  Member of Technical Staff at [Cumulus Networks][employer cumulus]
 
@@ -88,6 +91,7 @@
 [employer cumulus]: https://cumulusnetworks.com "Cumulus Networks"
 [employer hushhushent]: https://www.linkedin.com/company/8259494/ "Hush-Hush Entertainment"
 [employer target]: https://target.com "Target"
+
 
 [video vmwarewebclientplugin]: http://www.youtube.com/watch?v=V_cevCWcuQs "VMware Web Client Plugin"
 [video easyvmfex]: http://www.youtube.com/watch?v=0aAuj80cNvg "USC Easy VM-FEX"
