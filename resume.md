@@ -19,7 +19,7 @@
 
 # Experience
 
-## Senior SRE (Cloud Engineer) at [Snowflake][https://www.snowflake.com/]
+## Senior SRE (Cloud Engineer) at [Snowflake][employer snowflake]
   April 2019 - Present
   
 ##  Lead DevOps (Data Engineeringa) at [Target][employer target]
@@ -90,6 +90,7 @@
 [employer cisco]: https://cisco.com "Cisco Systems"
 [employer cumulus]: https://cumulusnetworks.com "Cumulus Networks"
 [employer hushhushent]: https://www.linkedin.com/company/8259494/ "Hush-Hush Entertainment"
+[employer snowflake]: https://www.snowflake.com/ "Snowflake"
 [employer target]: https://target.com "Target"
 
 
